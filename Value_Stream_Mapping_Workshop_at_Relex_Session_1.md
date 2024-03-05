@@ -53,7 +53,7 @@ The goal was to provide the supporting data to help in the discussion and mappin
 
 Because value is only delivered when our code is running in production, we must ensure that not only we are delivering fast flow, but that our deployments can also be performed without causing chaos and disruptions.
 
-#### Enhanced Quality and Reduced Risk
+#### Improved Quality and Reduced Risk
 
 Frequent, smaller deployments reduce the complexity of each release, lowering the risk of major failures. Quick detection and correction of problems, facilitated by robust feedback and telemetry systems, prevent issues from escalating. This maintains system stability and reliability.
 
@@ -61,7 +61,7 @@ Frequent, smaller deployments reduce the complexity of each release, lowering th
 
 #### Increased Efficiency
 
-Streamlining and automating deployment processes cut down on lead times, enhancing overall efficiency and reducing manual effort.
+Streamlining and automating deployment processes cut down on lead times, improving overall efficiency and reducing manual effort.
 
 Focus on minimizing time-consuming and repetitive manual tasks. This shift allows us to better utilize our skills and expertise in engineering to better support our customers and colleagues. By optimizing our processes, *we can significantly boost efficiency without increasing resource allocation*. We need to make sure that we’re doing the things that provide the most value, or we’ll get drowned in inefficiencies and take too long to get things done.
 
