@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The following is adapted from the briefing we read together at the beginning of the session and includes the resulting Value Stream Map :scroll:
+The following is adapted from the briefing we read together at the beginning of the session and includes the resulting Value Stream Map
 
 **Workshop Structure**
 
