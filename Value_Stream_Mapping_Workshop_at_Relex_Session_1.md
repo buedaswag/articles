@@ -12,6 +12,8 @@
 
 ## Introduction
 
+If you haven't, [read the introduction here!](Value_Stream_Mapping_Workshop_at_Relex_Introduction.md)
+
 The following is adapted from the briefing we read together at the beginning of the session and includes the resulting Value Stream Map
 
 **Workshop Structure**
