@@ -135,12 +135,10 @@ In the next article, I’ll go over what we did in session 2 and what results we
 
 ## I'd Love to Hear Your Thoughts
 
-As we wrap up the introduction to the Value Stream Mapping workshop at Relex, I'm excited to hear from you! [Please add your feedback here, I'll get back to you.](https://docs.google.com/forms/d/e/1FAIpQLSdaqgU-wePXN38fKege4Y6mFd90XFlSIdHl_mqp8mMeuWj_5Q/viewform?usp=sf_link)
+As we wrap this up, I'm excited to hear from you! [Please add your feedback or questions here, I'll get back to you.](https://docs.google.com/forms/d/e/1FAIpQLSdaqgU-wePXN38fKege4Y6mFd90XFlSIdHl_mqp8mMeuWj_5Q/viewform?usp=sf_link)
 
-* What strategies have you found effective in improving deployment processes and operational efficiency within your teams?
-* Are there specific aspects of our approach that you think could be improved or any innovative practices from your experience that could complement our efforts?
-
-Whether it's a suggestion for refining the workshop structure, ideas for smoother operations, or feedback on our current methodologies, I welcome your contributions.
+* What strategies have you found effective in improving deployment processes and reducing downtime within your teams?
+* Are there specific aspects of our approach that you think could be improved? Anything from your experience that could complement our efforts?
 
 Thank you for reading, have a great day!
 
