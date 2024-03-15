@@ -12,3 +12,4 @@
 
 * [Value Stream Mapping Workshop at Relex: Introduction](Value_Stream_Mapping_Workshop_at_Relex_Introduction.md)
 * [Value Stream Mapping Workshop at Relex: Session 1](Value_Stream_Mapping_Workshop_at_Relex_Session_1.md)
+* [Value Stream Mapping Workshop at Relex: Session 2](Value_Stream_Mapping_Workshop_at_Relex_Session_2.md)

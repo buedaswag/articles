@@ -29,7 +29,7 @@ To *Collaboratively map out the entire deployment process on a flow chart*. The 
 
 **Session Structure**
 
-* Part 1: (15min) Reading the session briefing, taking notes of thoughts, questions
+* Part 1: (15min) Reading the meeting briefing (from which this article was adapted), taking notes of thoughts, questions.
 * Part 2: (15min) Discussion
 * Part 3: (rest of the session) Build the map in a miro board
 
@@ -125,7 +125,7 @@ We included defects and rework in this map and color-coated parts of the work as
 
 Now we have mapped our value stream. We’re in a position to start identifying areas of waste, so we know exactly what we need to improve and what's the impact. We did that in session 2.
 
-### Next steps
+## Next steps
 
 In the next article, I’ll go over what we did in session 2 and what results we achieved. Here's what's coming up:
 
@@ -133,7 +133,7 @@ In the next article, I’ll go over what we did in session 2 and what results we
 * Session 3: Planning Countermeasures for Identified Waste
 * Session 4: Follow-up and Next Steps
 
-### I'd Love to Hear Your Thoughts
+## I'd Love to Hear Your Thoughts
 
 As we wrap up the introduction to the Value Stream Mapping workshop at Relex, I'm excited to hear from you! [Please add your feedback here, I'll get back to you.](https://docs.google.com/forms/d/e/1FAIpQLSdaqgU-wePXN38fKege4Y6mFd90XFlSIdHl_mqp8mMeuWj_5Q/viewform?usp=sf_link)
 
@@ -143,3 +143,10 @@ As we wrap up the introduction to the Value Stream Mapping workshop at Relex, I'
 Whether it's a suggestion for refining the workshop structure, ideas for smoother operations, or feedback on our current methodologies, I welcome your contributions.
 
 Thank you for reading, have a great day!
+
+## References
+
+This article was inspired from the following:
+
+* Kim, G. et al (2021), The DevOps Handbook, 2nd Edition, IT Revolution Press, ISBN: 9781950508433. Available from: <https://itrevolution.com/product/the-devops-handbook-second-edition/>
+* Thrasher, P. (2020). Interactive Virtual Value Stream Mapping - Visualizing Flow in a Virtual World. Presented at the DevOps Enterprise Summit. Available from: <https://videos.itrevolution.com/watch/466912411/>
