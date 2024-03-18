@@ -86,3 +86,18 @@ We will take our waste and make a sort of business plan to tackle it, Called the
 This was inspired from [Paula Thrasher's presentaion at the 2020 DevOps Enterprise Summit](https://videos.itrevolution.com/watch/466912411/)
 
 ## Session 3 Results
+
+Here we can see the Target Process and Goal for our top 3 sources of waste.
+
+![Canvas 1](assets/TODO.png)
+
+![Canvas 2](assets/TODO.png)
+
+![Canvas 3](assets/TODO.png)
+
+The Canvas helped us create a plan to tackle the most important waste and exploit our constraint.
+
+Generating consensus and motivating the team is key to getting these improvements done. We have a small team and these are ambitious goals, but we’re not going to work on everything at once. We started by talking about what is the current state, then we defined the goals and the future state we want to achieve. We also defined “baby steps” that we can start taking right now to get us closer to our goals, and the metrics we can use to track the progress towards the goals. We also acknowledged the possible issues, risks and limitations.
+
+
+At this point, as a team, we have identified the most important problems to solve, and have made a plan to solve them. Next, we need to talk about how to incorporate these plans into our daily work, which we did in session 4.
