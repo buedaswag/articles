@@ -129,7 +129,7 @@ Now we have mapped our value stream. We’re in a position to start identifying 
 
 In the next article, I’ll go over what we did in session 2 and what results we achieved. Here's what's coming up:
 
-* Session 2: Identifying Improvements and Prioritising Actions
+* [Session 2: Identifying Improvements and Prioritising Actions](Value_Stream_Mapping_Workshop_at_Relex_Session_2.md)
 * Session 3: Planning Countermeasures for Identified Waste
 * Session 4: Follow-up and Next Steps
 
