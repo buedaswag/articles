@@ -18,9 +18,9 @@ The following is adapted from the briefing we read together at the beginning of 
 
 **Workshop Structure**
 
-* Session 1: Mapping the Deployment Process
-* Session 2: Identifying Improvements and Prioritising Actions
-* Session 3: Planning Countermeasures for Identified Waste
+* [Session 1: Mapping the Deployment Process](Value_Stream_Mapping_Workshop_at_Relex_Session_1.md)
+* [Session 2: Identifying Improvements and Prioritising Actions](Value_Stream_Mapping_Workshop_at_Relex_Session_2.md)
+* Session 3: Planning Countermeasures for Prioritized Waste
 * Session 4: Follow-up and Next Steps
 
 **Objective of Session 1**

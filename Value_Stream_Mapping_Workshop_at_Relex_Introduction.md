@@ -62,10 +62,10 @@ While including a broader group could enrich the workshop and impact of the resu
 
 ## Workshop Structure
 
-* **Session 1:** Mapping the Deployment Process
-* **Session 2:** Identifying Waste and Prioritising Actions
-* **Session 3:** Planning Countermeasures for Prioritized Waste
-* **Session 4:** Follow-up and Next Steps
+* [Session 1: Mapping the Deployment Process](Value_Stream_Mapping_Workshop_at_Relex_Session_1.md)
+* [Session 2: Identifying Improvements and Prioritising Actions](Value_Stream_Mapping_Workshop_at_Relex_Session_2.md)
+* Session 3: Planning Countermeasures for Prioritized Waste
+* Session 4: Follow-up and Next Steps
 
 Each session starts with some time reserved for reading a briefing with relevant data for the session, then a discussion about ideas, thoughts, questions that came up when reading the briefing, then the activities start.
 
