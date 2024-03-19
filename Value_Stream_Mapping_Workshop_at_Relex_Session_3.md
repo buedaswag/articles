@@ -72,7 +72,7 @@ In the technology value stream, we often get **poor outcomes because of the abse
 We used these to guide the discussion
 
 * Review the prioritized waste areas from the previous session
-* Read the Value Stream Canvas bellow and let your ideas and discussion flow!
+* Read the Value Stream Canvas below and let your ideas and discussion flow!
 * When thinking about baby steps, are we really talking about baby steps?
     * How broad is this improvement? Inside a team? Across teams?
     * How much effort is this improvement?
