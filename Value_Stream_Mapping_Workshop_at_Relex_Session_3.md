@@ -14,7 +14,7 @@
 
 * [Session 1: Mapping the Deployment Process](Value_Stream_Mapping_Workshop_at_Relex_Session_1.md)
 * [Session 2: Identifying Improvements and Prioritising Actions](Value_Stream_Mapping_Workshop_at_Relex_Session_2.md)
-* Session 3: Planning Countermeasures for Identified Waste
+* [Session 3: Planning Countermeasures for Identified Waste](Value_Stream_Mapping_Workshop_at_Relex_Session_2.md)
 * Session 4: Follow-up and Next Steps
 
 **Objective of Session 3**
@@ -81,7 +81,7 @@ We used these to guide the discussion
 
 We will take our waste and make a sort of business plan to tackle it, Called the Value Stream Canvas, similar to a business plan or a [Lean Canvas](https://leanstack.com/lean-canvas). Here is the Canvas we will work on:
 
-![Value Stream Canvas](assets/TODO.png)
+![Value Stream Canvas](assets/vs_canvas_blank.png)
 
 This was inspired from [Paula Thrasher's presentaion at the 2020 DevOps Enterprise Summit](https://videos.itrevolution.com/watch/466912411/)
 
@@ -89,15 +89,36 @@ This was inspired from [Paula Thrasher's presentaion at the 2020 DevOps Enterpri
 
 Here we can see the Target Process and Goal for our top 3 sources of waste.
 
-![Canvas 1](assets/TODO.png)
+![Canvas 1](assets/vs_canvas_1.png)
 
-![Canvas 2](assets/TODO.png)
+![Canvas 2](assets/vs_canvas_2.png)
 
-![Canvas 3](assets/TODO.png)
+![Canvas 3](assets/vs_canvas_3.png)
 
 The Canvas helped us create a plan to tackle the most important waste and exploit our constraint.
 
 Generating consensus and motivating the team is key to getting these improvements done. We have a small team and these are ambitious goals, but we’re not going to work on everything at once. We started by talking about what is the current state, then we defined the goals and the future state we want to achieve. We also defined “baby steps” that we can start taking right now to get us closer to our goals, and the metrics we can use to track the progress towards the goals. We also acknowledged the possible issues, risks and limitations.
 
-
 At this point, as a team, we have identified the most important problems to solve, and have made a plan to solve them. Next, we need to talk about how to incorporate these plans into our daily work, which we did in session 4.
+
+## Next steps
+
+In the next article, I’ll go over what we did in session 4 and what results we achieved. Here's what's coming up:
+
+* Session 4: Follow-up and Next Steps
+
+## I'd Love to Hear Your Thoughts
+
+As we wrap this up, I'm excited to hear from you! [Please add your feedback or questions here, I'll get back to you.](https://docs.google.com/forms/d/e/1FAIpQLSdaqgU-wePXN38fKege4Y6mFd90XFlSIdHl_mqp8mMeuWj_5Q/viewform?usp=sf_link)
+
+* What strategies have you found effective in improving deployment processes and reducing downtime within your teams?
+* Are there specific aspects of our approach that you think could be improved? Anything from your experience that could complement our efforts?
+
+Thank you for reading, have a great day!
+
+## References
+
+This article was inspired from the following:
+
+* Kim, G. et al (2021), The DevOps Handbook, 2nd Edition, IT Revolution Press, ISBN: 9781950508433. Available from: <https://itrevolution.com/product/the-devops-handbook-second-edition/>
+* Thrasher, P. (2020). Interactive Virtual Value Stream Mapping - Visualizing Flow in a Virtual World. Presented at the DevOps Enterprise Summit. Available from: <https://videos.itrevolution.com/watch/466912411/>
