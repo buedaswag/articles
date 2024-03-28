@@ -14,7 +14,7 @@
 
 * [Session 1: Mapping the Deployment Process](Value_Stream_Mapping_Workshop_at_Relex_Session_1.md)
 * [Session 2: Identifying Improvements and Prioritising Actions](Value_Stream_Mapping_Workshop_at_Relex_Session_2.md)
-* Session 3: Planning Countermeasures for Prioritized Waste
+* [Session 3: Planning Countermeasures for Prioritized Waste](Value_Stream_Mapping_Workshop_at_Relex_Session_3.md)
 * Session 4: Follow-up and Next Steps
 
 **Objective of Session 2**
@@ -96,7 +96,7 @@ Now we have identified the waste in our value stream, and have prioritized it ac
 
 In the next article, I’ll go over what we did in session 2 and what results we achieved. Here's what's coming up:
 
-* Session 3: Planning Countermeasures for Identified Waste
+* [Session 3: Planning Countermeasures for Prioritized Waste](Value_Stream_Mapping_Workshop_at_Relex_Session_3.md)
 * Session 4: Follow-up and Next Steps
 
 ## I'd Love to Hear Your Thoughts
