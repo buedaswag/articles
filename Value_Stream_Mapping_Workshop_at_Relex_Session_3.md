@@ -37,9 +37,9 @@ We will be tempted to defer and deprioritize improvement work in favor of custom
 
 ### The Significant Impact of Improvement Work
 
-The impact of improving work is so big, that it gives us so much more capacity, it's even better than having more team members. If we reduce the deployment lead time from weeks to minutes, we will be able to go from deploying once per quarter to once per week. In one year **this is the difference between deploying 4 times or 52 times**. Doing this improvement is significantly better than adding more headcount.
+The impact of improving work is so big, that it gives us so much more capacity, it's even better than adding more headcount. If we reduce the deployment lead time from weeks to minutes, we will be able to go from deploying once per quarter to once per week. In one year **this is the difference between deploying 4 times or 52 times**. Doing this improvement is significantly better than adding more headcount.
 
-### Consequences of Not Improving Work:
+### Consequences of Not Improving Work
 
 If we don’t improve work what happens? We do the work, but we are having a bunch of waste so we’ll **not be productive**, we’ll likely have **defects**, and we’ll **miss opportunities to provide value**. Without continual improvement, we risk being drowned in inefficiencies.
 
@@ -63,7 +63,7 @@ In the technology value stream, **if we avoid fixing our problems**, relying ins
 
 **Create pervasive telemetry** so we can see how all our system components are operating in testing and production environments so that we can quickly detect when they are not achieving our intended goals. Ideally, this is radiated to the entire value stream so we can see how our actions affect other portions of the system as a whole
 
-**Feedback loops** not only enable quick detection and recovery of problems but also inform us on how to prevent these problems from occurring again in the future. Doing this increases the quality and safety of our system of work and creates organizational learning.
+These create **feedback loops**, that not only enable quick detection and recovery of problems but also inform us on how to prevent these problems from occurring again in the future. Doing this increases the quality and safety of our system of work and creates organizational learning.
 
 In the technology value stream, we often get **poor outcomes because of the absence of fast feedback**. For instance, in a waterfall software project, we may develop code for an entire year and get no feedback on quality until we begin the testing phase - or, worse, when we release software for our customers. When feedback is this delayed and infrequent, it is too slow to enable us to prevent undesirable outcomes.
 
@@ -79,7 +79,7 @@ We used these to guide the discussion
     * How difficult is this improvement?
     * What is the impact of this improvement?
 
-We will take our waste and make a sort of business plan to tackle it, Called the Value Stream Canvas, similar to a business plan or a [Lean Canvas](https://leanstack.com/lean-canvas). Here is the Canvas we will work on:
+We will take our waste and make a sort of business plan to tackle it, Called the Value Stream Canvas, similar to a [Lean Canvas](https://leanstack.com/lean-canvas). Here is the Canvas we will work on:
 
 ![Value Stream Canvas](assets/vs_canvas_blank.png)
 
@@ -87,7 +87,7 @@ This was inspired from [Paula Thrasher's presentaion at the 2020 DevOps Enterpri
 
 ## Session 3 Results
 
-Here we can see the Target Process and Goal for our top 3 sources of waste.
+It doesn't make sense to show all the details here, but we can see an adapted version of the Target Process and Goal for our top 3 sources of waste.
 
 ![Canvas 1](assets/vs_canvas_1.png)
 
@@ -97,7 +97,7 @@ Here we can see the Target Process and Goal for our top 3 sources of waste.
 
 The Canvas helped us create a plan to tackle the most important waste and exploit our constraint.
 
-Generating consensus and motivating the team is key to getting these improvements done. We have a small team and these are ambitious goals, but we’re not going to work on everything at once. We started by talking about what is the current state, then we defined the goals and the future state we want to achieve. We also defined “baby steps” that we can start taking right now to get us closer to our goals, and the metrics we can use to track the progress towards the goals. We also acknowledged the possible issues, risks and limitations.
+Generating consensus, motivating the team, and key stakeholders is key to getting these improvements done. We have a small team and these are ambitious goals, but we’re not going to work on everything at once. We started by talking about what is the current state, then we defined the goals and the future state we want to achieve. We also defined “baby steps” that we can start taking right now to get us closer to our goals, and the metrics we can use to track the progress towards the goals. We also acknowledged the possible issues, risks and limitations.
 
 At this point, as a team, we have identified the most important problems to solve, and have made a plan to solve them. Next, we need to talk about how to incorporate these plans into our daily work, which we did in session 4.
 
